@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+runs/
+*.pt
+*.cache
+.ultralytics/
+.runtime/
+!/dist/
+!/dist/**
